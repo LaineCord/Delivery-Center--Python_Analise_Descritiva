@@ -86,3 +86,6 @@ Apesar da preparação do pedido levar um tempo consideravel, o tempo gasto no t
 
 Será necessário análisar mais profundamente a quantidade de hubs por cidade, visto que a quantidade de hubs em Curitiba e em Porto Alegre são bem maiores, quando comparado com o número de lojas e pedidos, mas possuindo praticamente o mesmo nivel de eficiência dos outros hubs.
 
+# 8. Fonte 
+https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center?select=deliveries.csv
+
