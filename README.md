@@ -85,5 +85,5 @@ Apesar da preparação do pedido levar um tempo consideravel, o tempo gasto no t
 
 # 4. Considerações Finais
 
-Seria necessário entender a quantidade de hubs por cidade, visto que a quantidade de hubs em Curitiba e em Porto Alegre são bem maiores que as outras, mas possuindo praticamente o mesmo nivel de eficiência dos outros hubs.
+Será necessário análisar mais profundamente a quantidade de hubs por cidade, visto que a quantidade de hubs em Curitiba e em Porto Alegre são bem maiores, quando comparado com o número de lojas e pedidos, mas possuindo praticamente o mesmo nivel de eficiência dos outros hubs.
 
