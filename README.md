@@ -67,6 +67,7 @@ Aparentemente o tempo total do pedido tem relação com os cancelamentos, indepe
 ![image](https://github.com/user-attachments/assets/69a3c33a-9a0e-432b-9b62-3790f53d6db5) ![image](https://github.com/user-attachments/assets/5b621769-3e30-45b3-9b70-dccfcaf10ab5)
 ![image](https://github.com/user-attachments/assets/c76c976e-06e9-4d92-9c8f-fef40132097c)
 
+A produção leva um tempo consideravel no tempo total, no entanto, o que tem acarretado na demora de entrega é o tempo de entrega.A produção leva um tempo consideravel no tempo total, no entanto, o que tem acarretado na demora de entrega é o tempo de entrega.
 
 # 6. Conclusão
 
