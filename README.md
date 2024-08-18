@@ -70,17 +70,17 @@ Aparentemente o tempo total do pedido tem relação com os cancelamentos, indepe
 
 # 3. Conclusão
 
-- Hubs por cidade
+- Hubs por cidade  
 A quantidade de hubs não esta diretamente relacionada com a quantidade de lojas presentes em cada cidade. A cidade de Curitiba é a cidade que possui uma maior desproporção de hubs por loja, possuindo quase que um hub por loja, e isso, não tem relação direta com a quantidade de pedidos gerados em cada cidade, logo que Curitiba é a cidade que possui menos pedidos,também sendo a menor em extensão.
 
-- Cancelamentos
+- Cancelamentos  
 De modo geral, não há preferência por tipo de transporte, com exceção da cidade do Rio de Janeiro que parece quase que igualar o uso dos dois tipos de transporte.
 
 Sobre a distância a ser percorrida por cada tipo de transporte, parece não haver uma relação direta com cancelamentos. A unica relação que vemos com a distância é a de que o condutor que utiliza bicicletas parece sempre percorrer uma distância menor do que quem utiliza moto. Os pedidos mais curtos podem estar sendo direcionados para quem utiliza mais bicicletas do que motos.
 
 Já o tempo total do pedido, desde a sua criação até a entrega tem uma relação com os cancelamentos, independente do tipo de transporte utilizado havendo também uma tolerância maior que 8 dias até o cancelamento.
 
-- Tempo gasto em cada etapa
+- Tempo gasto em cada etapa  
 Apesar da preparação do pedido levar um tempo consideravel, o tempo gasto no transporte acaba sendo consideravelmente maior que o de preparo e todas as outras etapas. Inclusive, nos pedidos com Status Cancelado é o que vemos a maior disparidade com relação aos finalizados, até mesmo para cidade de Curitiba que possui a maior quantidade de hubs por lojas. 
 
 # 4. Considerações Finais
